@@ -2,7 +2,7 @@ const style = {
     component:{
         backgroundColor:"#273746",
         width:"70%",
-        margin:"100px",
+        margin:"40px",
         marginLeft:"auto",
         marginRight:"auto",
         padding:"10px 20px",

@@ -9,8 +9,11 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
+      <h3>Count increment/decrement</h3>
       <Count/>
+      <h3>Add, Update, Delete, Todo</h3>
       <TodoApp/>
+      <h3>Show Product and Add to Cart</h3>
       <ProductApp/>
       <div>
       <div style={style.a}>
